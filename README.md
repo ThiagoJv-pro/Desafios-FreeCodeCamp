@@ -1,2 +1,3 @@
 # FreeCodeCamp-Challenges
-Desafios de Back-End da plataforma FreeCodeCamp ( Resolvidos )
+Back-End challenges of FreeCodeCamp plataform ( resolved ) 
+
